@@ -20,8 +20,8 @@
 * Upon opening 'Stock_Data 2018 - 2020.xlsm' , you will see all of the data of the stock market for each year from 2018 to 2020. 
 
     * There are two buttons:
-        * [Resources](Resources/stock_data_v1_3.vbs) This script is assigned to a button named, "Click me to RUN". It's function is to loop through all worksheets analyzing and creating a summary table of the database. 
-        * [Resources](Resources/clear_page.vbs) This script is assigned to a button named, "Click me to CLEAR". This script's function will loop through each worksheet clearing out all calculations.
+        * [RUN](Resources/stock_data_v1_3.vbs) This script is assigned to a button named, "Click me to RUN". It's function is to loop through all worksheets analyzing and creating a summary table of the database. 
+        * [CLEAR](Resources/clear_page.vbs) This script is assigned to a button named, "Click me to CLEAR". This script's function will loop through each worksheet clearing out all calculations.
 
 2. Click on "Click me to Run" first to run script
 
@@ -45,7 +45,7 @@ For this assignment, I created a VB script that loops through all the worksheets
 * Bonus! To challenge myself more, I added a seperate summary table that includes some additional statistical analysis. 
     * Columns "N:P" displays the values for the Greatest % Increase, Greatest % Decrease, and the Greatest total volume per sheet. 
 
-* Screen shots of results per worksheet:
+* Screen shots of results for each year:
 
 ![Results2018](Images/results_2018.png)
 ![Results2019](Images/results_2019.png)
